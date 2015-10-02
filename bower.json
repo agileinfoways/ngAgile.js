@@ -1,0 +1,23 @@
+{
+  "name": "ngAgile",
+  "main": "ngAgile.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/agileinfoways/ngAgile",
+  "authors": [
+    "vimal.shah@agileinfoways.com"
+  ],
+  "description": "useful angular directives, filters, form validations and much more",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "jquery": "~2.1.4"
+  }
+}
